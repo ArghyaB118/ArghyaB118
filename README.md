@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arghya Bhattacharya.
-- 🕴️ I am a doctoral candidate in computer science in the fourth year of my graduate studies at Stony Brook University, New York, 🇺🇸.
+- 🕴️ I am a final-year doctoral candidate in computer science at Stony Brook University, New York, 🇺🇸.
 - 🧑‍🎓 I did my undergraduate in electrical engineering at Jadavpur University, Kolkata, 🇮🇳.
 - 🧑‍🔬 I am interested in algorithms, data structures, machine learning, and probability.
 - 👀 More precisely, I study 
